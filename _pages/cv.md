@@ -20,17 +20,17 @@ Work experience
   * University of Iowa Department of Pediatrics, Division of Medical Genetics and Genomics
 
 * Jan 2023 - June 2023: Database Management Intern
-  * The State Hygienic Laboratory at the University of Iowa
-  * Environmental Client Services
+  * The State Hygienic Laboratory at the University of Iowa, Environmental Client Services
+
+* June 2019 - Jan 2023: Formulations Specialist
+  * Integrated DNA Technologies, Custom Product Formulations
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R
+* Genetics
+* Statistical Machine Learning
+* Python
 
 Publications
 ======
@@ -52,4 +52,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* ASHG DNA Day Contest Judge: 2022, 2023
+* UIowa Raptor Project Docent and Caretaker: 2019-2021
+* UIowa Undergrad Research Fair Judge: 2023
