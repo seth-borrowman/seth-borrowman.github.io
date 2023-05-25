@@ -78,10 +78,10 @@ analytics:
     tracking_id          :
 
 
-# Site Author
+# Left-hand Sidebar
 author:
   name             : "Seth Borrowman"
-  avatar           : "profile.png"
+  avatar           : "borrowman_seth_2.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Iowa City, IA"
   employer         :
