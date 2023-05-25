@@ -11,21 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biology, Illinois Wesleyan University, 2019
+* M.S. in Epidemiology, University of Iowa, 2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2023 - Present: Research Assistant
+  * University of Iowa Department of Pediatrics, Division of Medical Genetics and Genomics
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan 2023 - June 2023: Database Management Intern
+  * The State Hygienic Laboratory at the University of Iowa
+  * Environmental Client Services
   
 Skills
 ======
